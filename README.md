@@ -56,4 +56,4 @@ scraper.save_to_csv(data, "采集结果.csv")
 - 自动处理相对链接转绝对链接
 - 请求间隔控制，避免被封 IP
 - 结果直接导出 CSV，Excel 可打开
-*（内容由AI生成，仅供参考）*
+
